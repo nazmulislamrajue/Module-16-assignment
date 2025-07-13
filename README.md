@@ -16,7 +16,7 @@ This is the submission for **Module 16 Assignment** of the Laravel course. The p
 
 ### 2. 🗃️ Database Migration
 - Database structure created based on the given diagram:
-  [Database Diagram Link](https://drive.google.com/file/d/1kGusVbrupAID3sPvU4wijDYrJcPbhxf0/view?usp=sharing)
+  [Database Diagram Link]()
 - Used Laravel migration system to implement models and relationships.
 
 ### 3. ✉️ Form Submission & Response
@@ -43,11 +43,7 @@ This is the submission for **Module 16 Assignment** of the Laravel course. The p
 ## 🎥 Project Presentation Video
 
 Watch the video demonstration of this project here:  
-🔗 [Google Drive Video Link](https://drive.google.com/file/d/13fhtrYZTbH1IbmzIwmlLuyGscrxVVvV4/view?usp=sharing)
-
-Database Diagram image
-<img width="1851" height="831" alt="image" src="https://github.com/user-attachments/assets/0d4f9ebd-85b9-4411-a676-87834f3cbb16" />
-
+🔗 [Google Drive Video Link]()
 
 ---
 
